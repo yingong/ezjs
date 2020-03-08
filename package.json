@@ -1,0 +1,19 @@
+{
+  "name": "ezjs",
+  "version": "1.0.0",
+  "description": "一些开发常用的js场景函数",
+  "main": "filteredPromiseAll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yingong/ezjs.git"
+  },
+  "author": "Ruijie Yin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yingong/ezjs/issues"
+  },
+  "homepage": "https://github.com/yingong/ezjs#readme"
+}
